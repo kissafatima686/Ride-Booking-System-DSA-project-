@@ -54,4 +54,19 @@ Islamabad city zones included:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/bilalchannar/Ride-Booking.git
+git clone https://github.com/kissafatima686/Ride-Booking-System-DSA-project-.git
+b
+
+ 
+2. Compile Code
+g++ "Project Code.cpp" -o RideBookingApp
+3. Run Program
+
+Windows:
+
+RideBookingApp.exe
+
+Linux / Mac:
+
+./RideBookingApp
+
